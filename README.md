@@ -1,6 +1,8 @@
 svg.marker.js
 =============
 
+**_Deprecated as [markers are now native in svg.js](https://github.com/kalley/svg.marker.js/issues/1)_**
+
 A plugin for [svg.js](http://svgjs.com) adding marker functionality.
 
 Svg.marker.js is licensed under the terms of the MIT License.
